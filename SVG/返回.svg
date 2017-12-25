@@ -3,7 +3,15 @@
 <svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 700 700" style="enable-background:new 0 0 700 700;" xml:space="preserve">
 <g>
-	<path d="M449.706,683.385V350.409h233.1v332.976H449.706z M449.706,17.385h233.1v291.391h-233.1V17.385z M16.806,475.312h399.599
-		v208.073H16.806V475.312z M16.806,17.385h399.599v416.241H16.806V17.385z M16.806,17.385"/>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="16.4" y="17.36" width="666" height="666"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<path style="clip-path:url(#SVGID_2_);" d="M16.4,350.167L624.501,17.782l57.917,63.312L190.144,350.167l492.274,269.07
+			l-57.917,63.311L16.4,350.167z M16.4,350.167"/>
+	</g>
 </g>
 </svg>
